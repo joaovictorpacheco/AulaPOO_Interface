@@ -29,6 +29,11 @@ namespace POOInterfaces
             carrinho.Cadastrar(p2);
             
             Console.ForegroundColor = ConsoleColor.Blue;
+
+            carrinho.Alterar(p1.Codigo , p3);
+            carrinho.Listar();
+
+            Console.ResetColor();
             
 
             

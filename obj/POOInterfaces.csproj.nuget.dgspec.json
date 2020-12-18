@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\C#\\POOInterfaces\\POOInterfaces.csproj": {}
+    "C:\\Users\\dev\\Desktop\\C#\\AulaPOO_Interface\\POOInterfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\C#\\POOInterfaces\\POOInterfaces.csproj": {
+    "C:\\Users\\dev\\Desktop\\C#\\AulaPOO_Interface\\POOInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\C#\\POOInterfaces\\POOInterfaces.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\C#\\AulaPOO_Interface\\POOInterfaces.csproj",
         "projectName": "POOInterfaces",
-        "projectPath": "C:\\Users\\dev\\Desktop\\C#\\POOInterfaces\\POOInterfaces.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\C#\\AulaPOO_Interface\\POOInterfaces.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\C#\\POOInterfaces\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\C#\\AulaPOO_Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

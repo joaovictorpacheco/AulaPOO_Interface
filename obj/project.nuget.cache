@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tMNUhj4tjPpgDoVWnq8lOVaWTzG7fyQWJlxbNe08WBtBU1srMgHTe74SxXVFaR5rvNhG+MWuzqynJfcF2MCEA==",
+  "dgSpecHash": "IqvprjwmPMpK3QmSHGlZs6wtxkmQAMrhZPToQn6wx7QeU1GT+53JuVZbCJrloGNOZ/xLsSrkS05/wYljTvC+hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\Desktop\\C#\\POOInterfaces\\POOInterfaces.csproj",
+  "projectFilePath": "C:\\Users\\dev\\Desktop\\C#\\AulaPOO_Interface\\POOInterfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
